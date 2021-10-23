@@ -25,5 +25,4 @@ include_directories(
   ${catkin_INCLUDE_DIRS}
 )
 
-##add_executable(simple_navigation src/simple_navigation.cpp)
 ##target_link_libraries(turtlebot_scripts ${catkin_LIBRARIES})
